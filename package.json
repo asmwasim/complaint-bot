@@ -1,0 +1,28 @@
+{
+    "name": "complaint-bot",
+    "version": "1.0.1",
+    "description": "A library that generates funny or mildly sarcastic complaints based on various situations.",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/asmwasim/complaint-bot.git"
+    },
+    "author": "ASM Wasim",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/asmwasim/complaint-bot/issues"
+    },
+    "homepage": "https://github.com/asmwasim/complaint-bot#readme",
+    "keywords": [
+        "complaint",
+        "funny",
+        "humor",
+        "sarcasm",
+        "bot",
+        "complaint generator"
+    ]
+}
